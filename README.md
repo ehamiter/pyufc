@@ -1,5 +1,5 @@
-## PyUFC - A Python wrapper for API access to the UFC fighter roster
-#### Inspired by https://github.com/valish/ufc-api
+#### PyUFC - A Python wrapper for API access to the UFC fighter roster
+###### Inspired by https://github.com/valish/ufc-api
 
 ```python
 In [1]: from pyufc import Fighter

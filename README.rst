@@ -9,6 +9,10 @@ A Python wrapper for API access to the UFC fighter roster
     :target: https://pypi.python.org/pypi/pyufc
     :alt: Latest PyPI version
 
+Installation::
+
+    pip install pyufc
+
 Usage::
 
     In [1]: from pyufc import Fighter

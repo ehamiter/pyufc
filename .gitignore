@@ -1,2 +1,14 @@
+# Misc
+.DS_Store
+.cache
+
+# IDE
+.idea
+*.iml
+
+# Python
 *.pyc
-*.idea
+*.pyo
+*.egg-info
+build
+dist

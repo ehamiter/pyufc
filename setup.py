@@ -9,7 +9,7 @@ setup(
     url='https://github.com/ehamiter/pyufc',
     packages=['pyufc'],
     install_requires=[
-        'beautifulsoup4==4.4.0'
+        'beautifulsoup4==4.4.0',
         'requests==2.7.0'
     ],
     license='MIT',

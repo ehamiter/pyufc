@@ -19,7 +19,7 @@ setup(
     packages=['pyufc'],
     install_requires=[
         'beautifulsoup4==4.4.0',
-        'requests==2.7.0'
+        'requests>=2.20.0'
     ],
     license='MIT',
     keywords=['ufc', 'mma', 'mixed martial arts', 'fighting', 'fighters'],
